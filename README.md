@@ -10,6 +10,10 @@
   I design and deliver <b>end-to-end automation solutions</b> and <b>ETL pipelines</b> inside a large-scale industrial manufacturing environment — turning manual, time-consuming processes into streamlined, data-driven workflows.
 </p>
 
+<p align="center">
+  <a href="https://petrosvachaviolos.github.io/resume/"><img src="https://img.shields.io/badge/📄_View_My_Resume-2ea44f?style=for-the-badge"/></a>
+</p>
+
 ---
 
 ### 🛠️ Tech Stack
