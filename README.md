@@ -54,16 +54,6 @@ Automated reconciliation engine matching unposted supplier invoices against inte
 - 📦 **2,240 customs entries** processed in 1 month instead of 2
 - 🔗 **REST API integration** with AADE AES (OAuth2 + pagination)
 - ✅ **100% data accuracy** across all automated workflows
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PetrosVachaviolos&show_icons=true&theme=default&hide_title=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetrosVachaviolos&layout=compact&hide_title=true" height="165"/>
-</p>
-
 ---
 
 ### 📫 Let's Connect
