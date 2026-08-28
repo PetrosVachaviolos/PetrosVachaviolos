@@ -1,21 +1,31 @@
-# Hi, I'm Petros Vachaviolos 👋
+<h1 align="center">Hi there, I'm Petros Vachaviolos 👋</h1>
+<h3 align="center">Business Intelligence & Process Automation Specialist</h3>
 
-**Business Intelligence & Process Automation Specialist**  
-📍 Chalkida, Greece | 🏭 Elvalhalcor S.A. (Viohalco Group)
+<p align="center">
+  <img src="https://img.shields.io/badge/📍-Chalkida,_Greece-informational?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🏭-Elvalhalcor_S.A._(Viohalco_Group)-informational?style=flat-square"/>
+</p>
+
+<p align="center">
+  I design and deliver <b>end-to-end automation solutions</b> and <b>ETL pipelines</b> inside a large-scale industrial manufacturing environment — turning manual, time-consuming processes into streamlined, data-driven workflows.
+</p>
 
 ---
 
-## 🚀 What I Do
+### 🛠️ Tech Stack
 
-I design and deliver **end-to-end automation solutions** and **ETL pipelines** within a large-scale industrial manufacturing environment. My work bridges the gap between business operations and technology — turning manual, time-consuming processes into streamlined, data-driven workflows.
-
----
-
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+</p>
 
 | Area | Tools |
 |---|---|
-| **Automation** | Power Automate Desktop, Power Automate Cloud, UiPath |
+| **Automation** | Power Automate Desktop & Cloud, UiPath |
 | **Programming** | Python (pandas, selenium, pywinauto), SQL |
 | **BI & Reporting** | Power BI, Power Query, Power Pivot, MS Excel |
 | **ERP** | SAP GUI |
@@ -23,18 +33,18 @@ I design and deliver **end-to-end automation solutions** and **ETL pipelines** w
 
 ---
 
-## 📂 Featured Projects
+### 📂 Featured Projects
 
-### 🔍 [Supplier Invoice Reconciliation Engine](https://github.com/PetrosVahaviolos/supplier-invoice-reconciliation)
+#### 🔍 [Supplier Invoice Reconciliation Engine](https://github.com/PetrosVachaviolos/supplier-invoice-reconciliation)
 Automated reconciliation engine matching unposted supplier invoices against internal SAP records.
 - Multi-source ETL pipeline (SAP + supplier data)
 - 5-category matching logic (VAT ID, date, amount, reference)
-- Intelligent reference number parsing with contains-check
+- Intelligent reference-number parsing with contains-check
 - **Stack:** Python, pandas, openpyxl
 
 ---
 
-## 📈 Professional Highlights
+### 📈 Professional Highlights
 
 - ⚡ **95% reduction** in execution time for export invoice MRN matching
 - 📦 **2,240 customs entries** processed in 1 month instead of 2
@@ -43,7 +53,18 @@ Automated reconciliation engine matching unposted supplier invoices against inte
 
 ---
 
-## 📫 Connect with Me
+### 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petros-vachaviolos)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:petros.vahaviolos@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PetrosVachaviolos&show_icons=true&theme=default&hide_title=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetrosVachaviolos&layout=compact&hide_title=true" height="165"/>
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/petros-vachaviolos"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:petros.vahaviolos@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
