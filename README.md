@@ -46,6 +46,13 @@ Automated reconciliation engine matching unposted supplier invoices against inte
 - Intelligent reference-number parsing with contains-check
 - **Stack:** Python, pandas, openpyxl
 
+#### 🔗 [AADE AES Power Query Connector](https://github.com/PetrosVachaviolos/aade-aes-power-query)
+Power Query M connector for the Greek Customs Authority (AADE) AES REST API.
+- OAuth2 password-grant authentication via Keycloak
+- Paginated data retrieval across 12 monthly date ranges
+- Covers AES, CB and Exported declaration types
+- **Stack:** Power Query M, REST API, OAuth2, JSON
+
 ---
 
 ### 📈 Professional Highlights
@@ -54,6 +61,7 @@ Automated reconciliation engine matching unposted supplier invoices against inte
 - 📦 **2,240 customs entries** processed in 1 month instead of 2
 - 🔗 **REST API integration** with AADE AES (OAuth2 + pagination)
 - ✅ **100% data accuracy** across all automated workflows
+
 ---
 
 ### 📫 Let's Connect
@@ -62,3 +70,4 @@ Automated reconciliation engine matching unposted supplier invoices against inte
   <a href="https://www.linkedin.com/in/petros-vachaviolos"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:petros.vahaviolos@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
