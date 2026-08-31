@@ -1,5 +1,15 @@
-<h1 align="center">Hi there, I'm Petros Vachaviolos 👋</h1>
+<h1 align="center">Petros Vachaviolos</h1>
+
 <h3 align="center">Business Intelligence & Process Automation Specialist</h3>
+
+<p align="center">
+  I build automation systems that connect SAP, Excel, APIs and enterprise web applications<br>
+  to eliminate manual work and turn operational data into reliable, auditable workflows.
+</p>
+
+<p align="center">
+  <b>Process Automation · SAP Integration · ETL Pipelines · REST APIs · Power Platform · Python</b>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍-Chalkida,_Greece-informational?style=flat-square"/>
@@ -7,12 +17,19 @@
 </p>
 
 <p align="center">
-  I design and deliver <b>end-to-end automation solutions</b> and <b>ETL pipelines</b> inside a large-scale industrial manufacturing environment — turning manual, time-consuming processes into streamlined, data-driven workflows.
-</p>
-
-<p align="center">
   <a href="https://petrosvachaviolos.github.io/resume/"><img src="https://img.shields.io/badge/📄_View_My_Resume-2ea44f?style=for-the-badge"/></a>
 </p>
+
+---
+
+### 📈 Impact
+
+| Metric | Result |
+|---|---|
+| Process execution time | ↓ 95% |
+| Customs entries processed | 2,240 / month (vs 2 months manually) |
+| Manual processes automated | SAP · Web portals · Excel · REST APIs |
+| Data accuracy | 100% across all workflows |
 
 ---
 
@@ -46,28 +63,19 @@ Automated reconciliation engine matching unposted supplier invoices against inte
 - Intelligent reference-number parsing with contains-check
 - **Stack:** Python, pandas, openpyxl
 
+#### ⚙️ [Import Declaration Automation (IMA)](https://github.com/PetrosVachaviolos/ima-pad-flow)
+End-to-end automation of the full import declaration lifecycle across ICISNET, SAP and Power Query — implemented in both Power Automate Desktop and Python.
+- Scrapes ICISNET, exports SAP data, reconciles to find new MRNs
+- Downloads and parses XML per declaration; routes by customs regime
+- Posts to SAP, attaches PDF, archives to network folder
+- **Stack:** Python (Selenium, pywinauto, pandas), Power Automate Desktop, Power Query M, SAP GUI
+
 #### 🔗 [AADE AES Power Query Connector](https://github.com/PetrosVachaviolos/aade-aes-power-query)
 Power Query M connector for the Greek Customs Authority (AADE) AES REST API.
 - OAuth2 password-grant authentication via Keycloak
 - Paginated data retrieval across 12 monthly date ranges
 - Covers AES, CB and Exported declaration types
 - **Stack:** Power Query M, REST API, OAuth2, JSON
-
-#### ⚙️ [Import Declaration Automation (IMA)](https://github.com/PetrosVachaviolos/ima-pad-flow)
-End-to-end PAD flow automating the full import declaration lifecycle across ICISNET, SAP and Power Query.
-- Retrieves declaration lists from ICISNET and SAP; Power Query engine identifies new MRNs
-- Downloads XML per declaration, PQ parses all line-item fields
-- Posts to SAP with automatic regime routing, PDF attachment and archive filing
-- **Stack:** Power Automate Desktop, Power Query M, SAP GUI, Web Automation
-
----
-
-### 📈 Professional Highlights
-
-- ⚡ **95% reduction** in execution time for export invoice MRN matching
-- 📦 **2,240 customs entries** processed in 1 month instead of 2
-- 🔗 **REST API integration** with AADE AES (OAuth2 + pagination)
-- ✅ **100% data accuracy** across all automated workflows
 
 ---
 
