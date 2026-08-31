@@ -53,6 +53,13 @@ Power Query M connector for the Greek Customs Authority (AADE) AES REST API.
 - Covers AES, CB and Exported declaration types
 - **Stack:** Power Query M, REST API, OAuth2, JSON
 
+#### ⚙️ [Import Declaration Automation (IMA)](https://github.com/PetrosVachaviolos/ima-pad-flow)
+End-to-end PAD flow automating the full import declaration lifecycle across ICISNET, SAP and Power Query.
+- Retrieves declaration lists from ICISNET and SAP; Power Query engine identifies new MRNs
+- Downloads XML per declaration, PQ parses all line-item fields
+- Posts to SAP with automatic regime routing, PDF attachment and archive filing
+- **Stack:** Power Automate Desktop, Power Query M, SAP GUI, Web Automation
+
 ---
 
 ### 📈 Professional Highlights
@@ -70,4 +77,3 @@ Power Query M connector for the Greek Customs Authority (AADE) AES REST API.
   <a href="https://www.linkedin.com/in/petros-vachaviolos"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:petros.vahaviolos@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
