@@ -26,7 +26,7 @@
 
 | Metric | Result |
 |---|---|
-| Process execution time | ↓ 95% |
+| Process execution time | ↓ 30–95% depending on workflow |
 | Customs entries processed | 2,240 / month (vs 2 months manually) |
 | Manual processes automated | SAP · Web portals · Excel · REST APIs |
 | Data accuracy | 100% across all workflows |
