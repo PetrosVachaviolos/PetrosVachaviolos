@@ -22,17 +22,6 @@
 
 ---
 
-### 📈 Impact
-
-| Metric | Result |
-|---|---|
-| Process execution time | ↓ 30–95% depending on workflow |
-| Customs entries processed | 2,240 / month (vs 2 months manually) |
-| Manual processes automated | SAP · Web portals · Excel · REST APIs |
-| Data accuracy | 100% across all workflows |
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -51,6 +40,17 @@
 | **BI & Reporting** | Power BI, Power Query, Power Pivot, MS Excel |
 | **ERP** | SAP GUI |
 | **APIs** | REST APIs, OAuth2, JSON/XML |
+
+---
+
+### 📈 Impact
+
+| Metric | Result |
+|---|---|
+| Process execution time | ↓ 30–95% depending on workflow |
+| Workflows automated | 11 end-to-end workflows |
+| Hours saved annually | 700+ hours (~4 working months) |
+| Data accuracy | 100% across all workflows |
 
 ---
 
