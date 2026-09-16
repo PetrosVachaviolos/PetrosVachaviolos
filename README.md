@@ -1,6 +1,6 @@
 <h1 align="center">Petros Vachaviolos</h1>
 
-<h3 align="center">Business Intelligence & Process Automation Specialist</h3>
+<h3 align="center">RPA Developer &amp; Automation Specialist</h3>
 
 <p align="center">
   I build automation systems that connect SAP, Excel, APIs and enterprise web applications<br>
@@ -18,6 +18,7 @@
 
 <p align="center">
   <a href="https://petrosvachaviolos.github.io/resume/"><img src="https://img.shields.io/badge/📄_View_My_Resume-2ea44f?style=for-the-badge"/></a>
+  <a href="https://github.com/PetrosVachaviolos/resume/raw/main/CV_Petros_Vachaviolos.pdf"><img src="https://img.shields.io/badge/⬇️_Download_PDF-2980d4?style=for-the-badge"/></a>
 </p>
 
 ---
@@ -35,9 +36,9 @@
 
 | Area | Tools |
 |---|---|
-| **Automation** | Power Automate Desktop & Cloud, UiPath |
-| **Programming** | Python (pandas, selenium, pywinauto), SQL |
-| **BI & Reporting** | Power BI, Power Query, Power Pivot, MS Excel |
+| **Automation** | Power Automate Desktop & Cloud, Python, UiPath |
+| **Data** | MS Excel, Power Query, SQL, Python |
+| **Reporting** | Power BI, Power Pivot, MS Excel |
 | **ERP** | SAP GUI |
 | **APIs** | REST APIs, OAuth2, JSON/XML |
 
