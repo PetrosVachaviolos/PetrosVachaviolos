@@ -71,6 +71,12 @@ End-to-end automation of the full import declaration lifecycle across ICISNET, S
 - Posts to SAP, attaches PDF, archives to network folder
 - **Stack:** Python, SAP GUI Scripting, Power Automate Desktop, Power Query M
 
+#### 📧 [Customs Broker Invoice Pipeline](https://github.com/PetrosVachaviolos/customs-broker-invoice-pipeline)
+Export invoices from customs brokers' emails attached to the matching SAP billing documents, with no manual steps.
+- Power Automate Cloud routing, with Greek/Latin subject normalisation
+- Outlook folder as the pending queue; Python saves the PDFs and attaches them in SAP (VF02)
+- **Stack:** Power Automate Cloud, Python, Outlook COM, SAP GUI Scripting
+
 #### 🤖 AI Document Data Extraction for Customs Broker Declarations
 Extracts declaration data from customs brokers' documents automatically, replacing manual entry.
 - Combines Power Automate Cloud & Desktop, AI Builder prompts, Python and APIs
