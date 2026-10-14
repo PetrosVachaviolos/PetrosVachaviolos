@@ -36,7 +36,7 @@
 
 | Area | Tools |
 |---|---|
-| **Automation** | Power Automate Desktop & Cloud, Python, UiPath |
+| **Automation** | Power Automate Desktop & Cloud, AI Builder, Python, UiPath, SAP GUI Scripting |
 | **Data** | MS Excel, Power Query, SQL, Python |
 | **Reporting** | Power BI, Power Pivot, MS Excel |
 | **ERP** | SAP GUI |
@@ -62,14 +62,19 @@ Automated reconciliation engine matching unposted supplier invoices against inte
 - Multi-source ETL pipeline (SAP + supplier data)
 - 5-category matching logic (VAT ID, date, amount, reference)
 - Intelligent reference-number parsing with contains-check
-- **Stack:** Python, pandas, openpyxl
+- **Stack:** Python, SAP GUI Scripting
 
 #### ⚙️ [Import Declaration Automation (IMA)](https://github.com/PetrosVachaviolos/ima-pad-flow)
 End-to-end automation of the full import declaration lifecycle across ICISNET, SAP and Power Query — implemented in both Power Automate Desktop and Python.
 - Scrapes ICISNET, exports SAP data, reconciles to find new MRNs
 - Downloads and parses XML per declaration; routes by customs regime
 - Posts to SAP, attaches PDF, archives to network folder
-- **Stack:** Python (Selenium, pywinauto, pandas), Power Automate Desktop, Power Query M, SAP GUI
+- **Stack:** Python, SAP GUI Scripting, Power Automate Desktop, Power Query M
+
+#### 🤖 AI Document Data Extraction for Customs Broker Declarations
+Extracts declaration data from customs brokers' documents automatically, replacing manual entry.
+- Combines Power Automate Cloud & Desktop, AI Builder prompts, Python and APIs
+- **Stack:** Power Automate, AI Builder, Python, REST APIs
 
 #### 🔗 [AADE AES Power Query Connector](https://github.com/PetrosVachaviolos/aade-aes-power-query)
 Power Query M connector for the Greek Customs Authority (AADE) AES REST API.
@@ -86,3 +91,5 @@ Power Query M connector for the Greek Customs Authority (AADE) AES REST API.
   <a href="https://www.linkedin.com/in/petros-vachaviolos"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:petros.vahaviolos@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+<p align="center"><sub>© 2026 Petros Vachaviolos. All rights reserved.</sub></p>
