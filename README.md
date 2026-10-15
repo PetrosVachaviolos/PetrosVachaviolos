@@ -77,10 +77,11 @@ Export invoices from customs brokers' emails attached to the matching SAP billin
 - Outlook folder as the pending queue; Python saves the PDFs and attaches them in SAP (VF02)
 - **Stack:** Power Automate Cloud, Python, Outlook COM, SAP GUI Scripting
 
-#### 🤖 AI Document Data Extraction for Customs Broker Declarations
-Extracts declaration data from customs brokers' documents automatically, replacing manual entry.
-- Combines Power Automate Cloud & Desktop, AI Builder, Python and APIs
-- **Stack:** Power Automate, AI Builder, Python, REST APIs
+#### 🤖 [AI Customs Declaration Extraction](https://github.com/PetrosVachaviolos/ai-customs-declaration-extraction)
+Customs declarations from broker emails read automatically, logged and handed to the SAP import automation by MRN.
+- Three custom AI Builder document processing models, one per broker (MRN, protocol number, value)
+- Python splits multi-page broker PDFs; Power Automate Cloud logs to Excel and renames each PDF by MRN
+- **Stack:** Power Automate Cloud, AI Builder, Python, Excel Online
 
 #### 🔗 [AADE AES Power Query Connector](https://github.com/PetrosVachaviolos/aade-aes-power-query)
 Power Query M connector for the Greek Customs Authority (AADE) AES REST API.
