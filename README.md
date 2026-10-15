@@ -79,7 +79,7 @@ Export invoices from customs brokers' emails attached to the matching SAP billin
 
 #### 🤖 AI Document Data Extraction for Customs Broker Declarations
 Extracts declaration data from customs brokers' documents automatically, replacing manual entry.
-- Combines Power Automate Cloud & Desktop, AI Builder prompts, Python and APIs
+- Combines Power Automate Cloud & Desktop, AI Builder, Python and APIs
 - **Stack:** Power Automate, AI Builder, Python, REST APIs
 
 #### 🔗 [AADE AES Power Query Connector](https://github.com/PetrosVachaviolos/aade-aes-power-query)
