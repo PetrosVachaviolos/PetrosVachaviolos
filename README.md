@@ -41,6 +41,16 @@
 | **Reporting** | Power BI, Power Pivot, MS Excel |
 | **ERP** | SAP GUI |
 | **APIs** | REST APIs, OAuth2, JSON/XML |
+| **Version Control** | Git / GitHub |
+
+### 🧭 Business Domains
+
+| Domain | Areas |
+|---|---|
+| **Customs** | Import/Export Compliance (ICISnet, AES) · Inward Processing & Warehousing |
+| **Tax** | Transfer Pricing Benchmarking · Company Car Benefit Taxation · myDATA e-invoicing |
+| **Finance** | Supplier Invoice Reconciliation |
+| **Logistics** | Goods Receipts (SAP MIGO) |
 
 ---
 
@@ -89,6 +99,10 @@ Power Query M connector for the Greek Customs Authority (AADE) AES REST API.
 - Paginated data retrieval across 12 monthly date ranges
 - Covers AES, CB and Exported declaration types
 - **Stack:** Power Query M, REST API, OAuth2, JSON
+
+#### 🏭 Also in production (no public repo)
+- **Unattended Customs Monitoring Service (24/7)** — monitors ICISnet, queues new import declarations and posts them to SAP with confirmed saves; self-restarting watchdog, health checks and alert e-mails.
+- **Export Licence Automation (AES)** — AES status tracking, licence PDF download, e-mail notification and attachment to the SAP invoice (111 licences in the first 8 working days); export declaration XML generated from SAP data and validated daily against the declarations actually submitted.
 
 ---
 
