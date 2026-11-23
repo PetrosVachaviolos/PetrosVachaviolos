@@ -59,8 +59,8 @@
 | Metric | Result |
 |---|---|
 | Process execution time | ↓ 30–95% depending on workflow |
-| Workflows automated | 11 end-to-end workflows |
-| Hours saved annually | 700+ hours (~4 working months) |
+| Workflows automated | 16 end-to-end workflows |
+| Hours saved annually | 1,200+ hours (~7 working months) |
 | Data accuracy | 100% across all workflows |
 
 ---
