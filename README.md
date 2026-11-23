@@ -101,7 +101,7 @@ Power Query M connector for the Greek Customs Authority (AADE) AES REST API.
 - **Stack:** Power Query M, REST API, OAuth2, JSON
 
 #### 🏭 Also in production (no public repo)
-- **Unattended Customs Monitoring Service (24/7)** — monitors ICISnet, queues new import declarations and posts them to SAP with confirmed saves; self-restarting watchdog, health checks and alert e-mails.
+- **Unattended Automation Service (24/7)** — always-on service monitoring ICISnet, AES and mailboxes that runs the automations unattended (import declaration posting, export licences, invoice attachments in SAP); self-restarting watchdog, health checks, per-process on/off switches and alert e-mails.
 - **Export Licence Automation (AES)** — AES status tracking, licence PDF download, e-mail notification and attachment to the SAP invoice (111 licences in the first 8 working days); export declaration XML generated from SAP data and validated daily against the declarations actually submitted.
 
 ---
